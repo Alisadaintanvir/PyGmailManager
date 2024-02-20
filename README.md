@@ -28,13 +28,13 @@
 ## Usage
 1. Set up environment variables:
 
-  - Create a .env file in the project directory.
+    - Create a .env file in the project directory.
+    
+    - Add the following lines to the .env file:
   
-  - Add the following lines to the .env file:
-
-    - EMAIL=your_email@gmail.com
-    - PASSWORD= your_password(Google App Password)
-      - to get an app password, visit this link:-  [https://support.google.com/accounts/answer/185833?hl=en](url)
+      - EMAIL=your_email@gmail.com
+      - PASSWORD= your_password(Google App Password)
+        - to get an app password, visit this link:-  [https://support.google.com/accounts/answer/185833?hl=en](url)
    
 2. Modify the key and value variables in main.py according to your search criteria.
 
