@@ -28,9 +28,9 @@
 ## Usage
 1. Set up environment variables:
 
-- Create a .env file in the project directory.
-
-- Add the following lines to the .env file:
+  - Create a .env file in the project directory.
+  
+  - Add the following lines to the .env file:
 
     - EMAIL=your_email@gmail.com
     - PASSWORD= your_password(Google App Password)
