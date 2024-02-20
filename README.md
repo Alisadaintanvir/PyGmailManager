@@ -32,9 +32,9 @@
 
 - Add the following lines to the .env file:
 
-  - EMAIL=your_email@gmail.com
-  - PASSWORD= your_password(Google App Password)
-    - to get an app password, visit this link:-  [https://support.google.com/accounts/answer/185833?hl=en](url)
+    - EMAIL=your_email@gmail.com
+    - PASSWORD= your_password(Google App Password)
+      - to get an app password, visit this link:-  [https://support.google.com/accounts/answer/185833?hl=en](url)
    
 2. Modify the key and value variables in main.py according to your search criteria.
 
@@ -45,7 +45,9 @@
 4. Follow the on-screen prompts to manage your emails.
 
 ### Environment Variables
+
 EMAIL: Your Gmail email address.
+
 PASSWORD: Your Gmail account app password.
 
 ## Contributing
