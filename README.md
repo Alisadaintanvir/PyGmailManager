@@ -11,3 +11,46 @@
 - Gmail account credentials (username and password).
   - must have to use the app password 
 - Enable IMAP access in your Gmail settings.
+
+
+## Installation
+#### Clone the repository:
+
+`git clone https://github.com/your_username/email-manager.git`
+
+#### Navigate to the project directory:
+
+`cd email-manager`
+#### Install the required dependencies:
+
+`pip install -r requirements.txt`
+
+## Usage
+#### Set up environment variables:
+
+Create a .env file in the project directory.
+
+Add the following lines to the .env file:
+
+- EMAIL=your_email@gmail.com
+- PASSWORD=your_password
+Modify the key and value variables in main.py according to your search criteria.
+
+**Run the script:**
+
+`python main.py`
+
+Follow the on-screen prompts to manage your emails.
+
+Environment Variables
+EMAIL: Your Gmail email address.
+PASSWORD: Your Gmail account password.
+Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or create a pull request.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Acknowledgments
+This project was inspired by the need for a simple email management tool using Python.
+Thanks to python-dotenv for simplifying environment variable management.
