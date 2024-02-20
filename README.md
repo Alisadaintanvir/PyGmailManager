@@ -50,6 +50,16 @@ EMAIL: Your Gmail email address.
 
 PASSWORD: Your Gmail account app password.
 
+### Criteria
+- There are some examples for the criteria (key):
+  1. FROM: Searches for messages sent from a specific email address.
+
+  2. TO: Searches for messages sent to a specific email address.
+
+  3. SUBJECT: Searches for messages with a specific subject line.
+  
+  4. BODY: Searches for messages containing specific text in the body.
+
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or create a pull request.
 
