@@ -26,31 +26,33 @@
 `pip install -r requirements.txt`
 
 ## Usage
-#### Set up environment variables:
+1. Set up environment variables:
 
-Create a .env file in the project directory.
+- Create a .env file in the project directory.
 
-Add the following lines to the .env file:
+- Add the following lines to the .env file:
 
-- EMAIL=your_email@gmail.com
-- PASSWORD=your_password
-Modify the key and value variables in main.py according to your search criteria.
+  - EMAIL=your_email@gmail.com
+  - PASSWORD= your_password(Google App Password)
+    - to get an app password, visit this link:-  [https://support.google.com/accounts/answer/185833?hl=en](url)
+   
+2. Modify the key and value variables in main.py according to your search criteria.
 
-**Run the script:**
+3. Run the script:
 
 `python main.py`
 
-Follow the on-screen prompts to manage your emails.
+4. Follow the on-screen prompts to manage your emails.
 
-Environment Variables
+### Environment Variables
 EMAIL: Your Gmail email address.
-PASSWORD: Your Gmail account password.
-Contributing
+PASSWORD: Your Gmail account app password.
+
+## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or create a pull request.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+## Acknowledgments
 This project was inspired by the need for a simple email management tool using Python.
-Thanks to python-dotenv for simplifying environment variable management.
