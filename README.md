@@ -9,5 +9,5 @@
 ## Prerequisites
 - Python 3 installed on your system.
 - Gmail account credentials (username and password).
-  --must have to use the app password 
+  -must have to use the app password 
 - Enable IMAP access in your Gmail settings.
